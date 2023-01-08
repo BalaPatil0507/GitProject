@@ -12,6 +12,7 @@ public class Demo {
 		li.add("Patil");
 		li.add("121");
 		
+		System.out.println("Below is list");
 		for(String a:li)
 			System.out.println(a);
 	}
